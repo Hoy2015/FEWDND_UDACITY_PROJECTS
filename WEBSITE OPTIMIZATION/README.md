@@ -9,7 +9,7 @@ git clone https://github.com/Hoy2015/WEBSITE OPTIMIZATION.git
 ```
 Run the index file:
 ```
-    open index.html
+open index.html
 ```
 
 ## Optimization of the web page
